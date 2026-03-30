@@ -1,7 +1,7 @@
 # ⚔️ The Fourth Front of War: When Health Data Becomes a Weapon
 
 ## 🌍 Introduction
-In the modern era, a new dimension of conflict has emerged **cyberwar**.
+In the modern era, a new dimension of conflict has emerged called **cyberwar**.
 Unlike traditional warfare, which operates across land, sea, and air, cyberwar introduces a fourth front, where the battlefield is no longer physical but digital.
 
 Within this domain, the most sensitive and valuable data to protect is:
